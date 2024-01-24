@@ -6,15 +6,14 @@ const val mod_author = "KilaBash"
 const val mod_id = "shimmer"
 
 //Common
-const val minecraft_version = "1.20.1"
-const val parchment_version = "1.20.1:2023.07.30"
+const val minecraft_version = "1.20.4"
 const val enabled_platforms = "fabric,forge"
 
 //Fabric
-const val fabric_loader_version = "0.15.0"
-const val fabric_api_version = "0.91.0+$minecraft_version"
-const val cloth_config_version = "11.1.106"
-const val mod_menu_version = "7.1.0"
+const val fabric_loader_version = "0.15.6"
+const val fabric_api_version = "0.95.1+$minecraft_version"
+const val cloth_config_version = "13.0.121"
+const val mod_menu_version = "9.0.0"
 
 //Forge
 const val forge_version = "$minecraft_version-47.1.43"
